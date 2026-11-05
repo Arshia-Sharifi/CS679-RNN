@@ -1,0 +1,15 @@
+Original Results
+minLSTM (1 layers) Accuracy: (35.6%, 39.6%)
+minLSTM (2 layers) Accuracy: (79.9%, 91.5%)
+minLSTM (3 layers) Accuracy: (93.2%, 98.8%)
+minGRU (1 layers) Accuracy: (34.7%, 39.3%)
+minGRU (2 layers) Accuracy: (93.6%, 100.0%)
+minGRU (3 layers) Accuracy: (99.3%, 99.7%)
+
+Run 1 Results
+minLSTM (1 layers) Accuracy: 33.7%
+minLSTM (2 layers) Accuracy: 93.3%
+minLSTM (3 layers) Accuracy: 96.3%
+minGRU (1 layers) Accuracy: 34.5%
+minGRU (2 layers) Accuracy: 94.4%
+minGRU (3 layers) Accuracy: 99.2%
