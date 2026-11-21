@@ -1,0 +1,7 @@
+Original Results
+minLSTM (HalfCheetah-M) Score: (42, 43.4)
+minGRU (HalfCheetah-M) Score: (42.6, 43.4)
+
+Run 1 Results
+minLSTM (HalfCheetah-M) Score: 42.8
+minGRU (HalfCheetah-M) Score: 42.9
